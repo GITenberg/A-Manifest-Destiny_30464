@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31714'
     url: http://www.gutenberg.org/2009/agents/31714
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30464#A-Manifest-Destiny
 gutenberg_issued: '2009-11-13'
 gutenberg_type: Text
 identifiers:
